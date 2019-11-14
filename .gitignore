@@ -1,0 +1,8 @@
+code/sell_fe_buyer/.DS_Store
+code/sell_fe_buyer/node_modules/
+code/sell_fe_buyer/dist/
+code/sell_fe_buyer/.idea/
+code/sell_fe_buyer/npm-debug.log
+code/sell_fe_buyer/selenium-debug.log
+code/sell_fe_buyer/test/unit/coverage
+code/sell_fe_buyer/test/e2e/reports
